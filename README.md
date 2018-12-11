@@ -7,4 +7,5 @@ Each domain is in it's own directory (TAXI / Acrobot). The TAXI domain is split 
 **All files are self-contained as iPython notebooks and do not require imports other than python libraries (e.g. torch, matplotlib, etc..).**
 
 Below is an example of our trained acrobot agent.
+
 ![](https://github.com/tesslerc/DeepRL_MidTerm/raw/master/Acrobot/acrobot.gif)
